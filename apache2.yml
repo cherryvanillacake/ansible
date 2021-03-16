@@ -14,5 +14,5 @@
     - name: create content
       copy:
         content: "Congrats on installing apache2"
-        dest: /var/www/html/index.hhtml
+        dest: /var/www/html/index.html
 ...
