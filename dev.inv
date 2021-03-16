@@ -1,2 +1,2 @@
 [webservers]
-192.168.0.165 ansible_host=g
+192.168.0.165 ansible_user=g ansible_sudo_pass=two
